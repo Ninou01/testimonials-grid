@@ -24,7 +24,7 @@ body {
     display: grid;
     grid-gap: 20px 30px;
     width: 75%;
-    margin: 60px auto;
+    margin: 160px auto;
 }
 
 .container > * {
@@ -97,8 +97,8 @@ body {
 .one .quotation-image {
     position: absolute;
     z-index: 0;
-    top: 22px;
-    right: 50px;
+    top: 0;
+    right: 100px;
 }
 
 .one .profile-image {
@@ -163,6 +163,7 @@ body {
 
 @media only screen and (min-width: 1025px) {
     .container {
+        max-width: 1110px;
         grid-template-columns: repeat(4, 1fr);
         grid-template-rows: repeat(2, 1fr);
     }
