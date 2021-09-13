@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://bit.ly/2VB1Gqw
+- Solution URL: [Add solution URL here](https://bit.ly/2VB1Gqw)
 - Live Site URL: [Add live site URL here](https://bit.ly/3npelsd)
 
 ## My process
